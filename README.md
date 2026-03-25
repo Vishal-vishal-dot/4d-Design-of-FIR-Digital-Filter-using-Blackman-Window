@@ -40,7 +40,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Blackman Window'); 
 ```
 # CALCULATION:
-![Blackman manu](https://github.com/user-attachments/assets/dc04be59-d0b8-4c98-9192-09ac79173246)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/86186c40-85f5-4199-a749-24ab21c68a3b" />
+
 
 # OUTPUT:
 <img width="491" height="457" alt="LPF-Blackman calculation" src="https://github.com/user-attachments/assets/1b06a0ab-ccef-41c5-97ce-1a92766ad8c2" />
@@ -90,7 +91,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR HPF using Blackman Window');
 ```
 # CALCULATION:
-![Blackman manu](https://github.com/user-attachments/assets/5ad58ddf-5cc9-4784-93c5-759ad94978d2)
+
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/57169f67-2fb4-4ca9-bda1-2f789225e29c" />
 
 # OUTPUT:
 <img width="451" height="479" alt="HPF-Blackman calculation" src="https://github.com/user-attachments/assets/4addd579-4e03-4e2f-9573-373cd1a7c8c1" />
@@ -141,7 +143,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BPF using Blackman Window'); 
 ```
 # CALCULATION:
-![Blackman](https://github.com/user-attachments/assets/9cfe77a0-01b3-4b7e-b46b-a51109eb2145)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/59d3bc87-812e-421e-8079-14987e113b73" />
+
 
 # OUTPUT:
 <img width="556" height="458" alt="BPF-Blackman Calculation" src="https://github.com/user-attachments/assets/741f1f83-ba9a-4814-9b3b-6973b9bd1a9f" />
@@ -192,7 +195,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BSF using Blackman Window');
 ```
 # CALCULATION:
-![Blackman](https://github.com/user-attachments/assets/766206b1-b9d8-4211-86ee-7c56d1646974)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/fe123905-83c2-4101-88b9-4796ca053745" />
+
 
 # OUTPUT: 
 <img width="582" height="512" alt="BSF-Blackman Calculation" src="https://github.com/user-attachments/assets/297f2cfe-4e63-4bb1-87ae-bd833e6ddaec" />
